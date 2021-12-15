@@ -10,3 +10,10 @@ In order to fully understand how the pricing system of diamonds worked, it was i
 
 ## Project Target:
 - Prediction How is Diamond Priced Based on its Attributes
+
+
+
+
+
+Amal Almuteb
+email: am-nass@hotmail.com

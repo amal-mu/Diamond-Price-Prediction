@@ -16,4 +16,5 @@ In order to fully understand how the pricing system of diamonds worked, it was i
 ### Thank you
 
 Amal Almuteb
+
 email: am-nass@hotmail.com

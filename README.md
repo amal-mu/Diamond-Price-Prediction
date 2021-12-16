@@ -1,7 +1,7 @@
 # Diamond-Price-Prediction
 ## Overview
 Do you see this beautiful piece of diamond ?
-Have you asked yourself once why diamonds have variance in its price? Or what is the most important features that affect on the price?
+Have you ever asked yourself once why diamonds have variance in its price? Or what is the most important features that affect on the price?
 
 ![Gifs animados Diamante 1](https://user-images.githubusercontent.com/57889870/146094904-fffd76d4-04e1-4c9c-aaa0-d9a91a48b61a.gif)
 
